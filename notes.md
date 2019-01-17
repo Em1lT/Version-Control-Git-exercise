@@ -15,3 +15,9 @@
   193  git push origin master
   194  git remote -v
   195  history
+
+Added the assignments bullet 4.
+  202  git remote -v
+  203  git remote rm origin
+  204  git remote -v
+  205  git remote add origin https://github.com/Em1lT/Version-Control-Git-exercise.git
