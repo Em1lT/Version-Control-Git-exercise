@@ -21,3 +21,6 @@ Added the assignments bullet 4.
   203  git remote rm origin
   204  git remote -v
   205  git remote add origin https://github.com/Em1lT/Version-Control-Git-exercise.git
+Added the adding the file
+	touch notes.md
+	notepad notes.md
